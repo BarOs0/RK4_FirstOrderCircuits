@@ -5,7 +5,7 @@
 % Field: EiT, II year, winter semester
 % Project: Frequency Analysis
 % Date: 27th January 2025
-% ==================================================================================
+% ===================================================================================
 % Description:
 % This script performs frequency analysis using the fourth-order Runge-Kutta
 % method for numerical integration. The analysis is applied to RL and RC circuits 
